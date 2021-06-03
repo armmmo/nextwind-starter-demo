@@ -2,7 +2,7 @@ export default {
   cms_manual_init: true,
   backend: {
     name: 'github',
-    repo: 'jakeprins/nextwind',
+    repo: 'https://github.com/armmmo/nextwind-starter-demo',
     branch: 'master',
   },
   media_folder: 'public/img',
